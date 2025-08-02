@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=my-pshds&show_icons=true&hide_title=true' width="550px" />
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=my-pshds&show_icons=true&hide_title=true' width="400px" />
 </a>
 
 [第三方平台链接 / Linkage Stack](https://link.pengxianzhe.org)
