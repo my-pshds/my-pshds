@@ -1,10 +1,11 @@
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=my-pshds&show_icons=true&hide_title=true' width="400px" />
-</a>
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=my-pshds&theme=swift&show_icons=true&hide_title=true' width="400px" />
 
 [第三方平台链接 / Linkage Stack](https://link.pengxianzhe.org)
 <br>
 <br>
-<a href="#">
-<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&layout=compact&hide=html,javascript,jupyter+notebook,css' width="400px" />
-</a>
+
+<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&count_private=true&include_all_commits=true&layout=compact&hide=html,javascript,typescript,astro,jupyter%20notebook,css,stylus,svelte,less' width="400px" />
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&hide_title=true&count_private=true&include_all_commits=true&layout=compact&hide=html,jupyter%20notebook,tex,typst' width="400px" />
