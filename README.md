@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=my-pshds&theme=graywhite&show_icons=true&hide_title=true' width="380px" />
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=my-pshds&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true' width="380px" />
 
 <br><br><br>
 
