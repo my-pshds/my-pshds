@@ -8,4 +8,4 @@
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&hide_title=true&count_private=true&include_all_commits=true&layout=compact&hide=html,jupyter%20notebook,tex,typst' width="400px" />
+<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&hide_title=true&count_private=true&include_all_commits=true&layout=compact&hide=html,jupyter%20notebook,tex,typst' width="370px" />
