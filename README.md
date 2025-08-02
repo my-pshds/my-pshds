@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&count_private=true&include_all_commits=true&layout=compact&hide=html,javascript,typescript,astro,jupyter%20notebook,css,stylus,svelte,less' width="400px" />
+<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=my-pshds&count_private=true&include_all_commits=true&layout=compact&hide=html,javascript,typescript,astro,jupyter%20notebook,css,stylus,svelte,less' width="390px" />
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
